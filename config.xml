@@ -3,8 +3,8 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
 		id        = "com.egytest.first"
-		versionCode=""
-		version   = "">
+		versionCode="1"
+		version   = "1">
 		<name>test		</name>
 		<description>helllo world		</description>
 		<author href="http://www.shabayelk.com" email="hamadayahai@gmail.com">AppDev		</author>
