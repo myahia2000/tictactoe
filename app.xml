@@ -1,0 +1,56 @@
+<xml>
+  <navigation type="simple" backgroundColor="#5B5B5B" backgroundImage="" contentOverlap="0" itemsPosition="bottom" textStyle="0" textSize="10" textFont="helvetica-light.ttf" iosStyleNavigation="false">
+    <items>
+      <item icon="homew.png" text="Home" textColor="#ffffff" selectedTextColor="#15B880" selectedIcon="home.png" backgroundImage="" selectedBackgroundImage="" backgroundColor="#15B880" selectedBackgroundColor="#f7f7f7" />
+      <item icon="servicesw.png" text="Services" textColor="#ffffff" selectedTextColor="#15B880" selectedIcon="services.png" backgroundImage="" selectedBackgroundImage="" backgroundColor="#15B880" selectedBackgroundColor="#f7f7f7" />
+      <item icon="aboutw.png" text="About Us" textColor="#ffffff" selectedTextColor="#15B880" selectedIcon="aboutg.png" backgroundImage="" selectedBackgroundImage="" backgroundColor="#15B880" selectedBackgroundColor="#f7f7f7" />
+      <item icon="clientsw.png" text="Clients" textColor="#ffffff" selectedTextColor="#15B880" selectedIcon="clients.png" backgroundImage="" selectedBackgroundImage="" backgroundColor="#15B880" selectedBackgroundColor="#f7f7f7" />
+      <item icon="morew.png" text="More" textColor="#ffffff" selectedTextColor="#15B880" selectedIcon="more.png" backgroundImage="" selectedBackgroundImage="" backgroundColor="#15B880" selectedBackgroundColor="#f7f7f7" />
+    </items>
+  </navigation>
+  <targetplatform simulator="Android">Android</targetplatform>
+  <template price="199.99" id="MatchGame" scaleWebPagesToBaseResolution="false" isUniversalApp="false" topadtype="none" bottomadtype="none" globalLogo="" />
+  <prop id="appname" title="App Name">MatchGame1</prop>
+  <planname>Basic</planname>
+  <page id="BackButton.html" type="html" transition="slide" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topad="no" bottomad="no" topadtype="none" bottomadtype="none" kind="html" />
+  <page id="clasichtml1.html" type="clasichtml" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" kind="html" />
+  <file id="appStyles.xml" newsfile="yes">
+  </file>
+  <file id="mosaic.html" newsfile="yes" />
+  <file id="profilepage1.html" newsfile="yes" />
+  <file id="sidemenu1.html" newsfile="yes" />
+  <file id="tab1.html" newsfile="no" />
+  <hostedresources>
+  </hostedresources>
+  <file id="appStyles.xml" newsfile="yes" />
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="No, Thanks" remindmessage="Remind Me Later" actionmessage="Rate It Now" />
+  <ads allowUsingAdvertisingId="false" />
+  <admobpublisher id="" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="" padding="0" position="na" />
+  <revmobappid id="" />
+  <scads refreshRate="30" />
+  <googleanalyticsid id="" />
+  <localizablelanguage value="eng" />
+  <paypalappid id="" />
+  <fbapp apikey="" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="" />
+  <pdftron licenseKey="" />
+  <rotationapp>true</rotationapp>
+  <webView bouncesEnabled="true" hideLoadingAnimation="false" />
+  <sharepointclient url="" username="" password="" />
+  <appstorelink />
+  <googleMaps androidApiV2Key="" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <locationServices startupAuthorizationType="auto">
+    <inUseDescription />
+    <alwaysDescription />
+  </locationServices>
+  <page id="facebook.html" type="mobilefacebook" kind="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" />
+  <page id="contact.html" type="form" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="about.html" type="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" kind="html" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="index.html" type="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" kind="html" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" />
+</xml>
