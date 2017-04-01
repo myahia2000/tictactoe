@@ -2,10 +2,10 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
-		id        = "com.egytest.first"
-		versionCode="1"
-		version   = "1">
-		<name>test		</name>
+		id        = "com.egytest.first1"
+		versionCode=""
+		version   = "1.0.0">
+		<name>test1		</name>
 		<description>helllo world		</description>
 		<author href="http://www.shabayelk.com" email="hamadayahai@gmail.com">AppDev		</author>
 		<feature name="http://api.phonegap.com/1.0/battery" />
@@ -40,16 +40,19 @@
 		<preference name="HideKeyboardFormAccessoryBar" value="true" />
 		<preference name="SuppressesIncrementalRendering" value="false" />
 		<preference name="windows-identity-name" value="" />
+		<preference name="android-minSdkVersion" value="7" />
 		<preference name="android-installLocation" value="auto" />
 		<preference name="SplashScreenDelay" value="2000" />
 		<preference name="ErrorUrl" value="null" />
 		<preference name="BackgroundColor" value="0x000000" />
 		<preference name="DisallowOverscroll" value="true" />
-		<preference name="LoadingDialog" value="," />
+		<preference name="LoadingDialog" value="Loooooooding,Loding" />
 		<preference name="LoadUrlTimeoutValue" value="null" />
-		
+		<platform name="ios">
+		</platform>
 		<platform name="android">
 		</platform>
-		
+		<platform name="winphone">
+		</platform>
 		 <icon src="icon.png" />
 		</widget>
